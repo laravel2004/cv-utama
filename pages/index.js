@@ -34,8 +34,8 @@ const Home = ({ frontmatter }) => {
               <Image
                 className="mx-auto mt-12"
                 src={banner.image}
-                width={750}
-                height={390}
+                width={500}
+                height={300}
                 alt="banner image"
                 priority
               />
@@ -101,7 +101,9 @@ const Home = ({ frontmatter }) => {
                     {/* Slides */}
                     {service?.images.map((slide, index) => (
                       <SwiperSlide key={index}>
-                        <Image src={slide} alt="" width={600} height={500} />
+                        <div className="flex justify-center mb-3">
+                          <Image src={slide} className="w-56 h-64" alt="" width={600} height={500} />
+                        </div>
                       </SwiperSlide>
                     ))}
                   </Swiper>
@@ -136,25 +138,6 @@ const Home = ({ frontmatter }) => {
           </section>
         );
       })}
-
-      {/* workflow */}
-      <section className="section pb-0">
-        <div className="mb-8 text-center">
-          {markdownify(
-            workflow.title,
-            "h2",
-            "mx-auto max-w-[400px] font-bold leading-[44px]"
-          )}
-          {markdownify(workflow.description, "p", "mt-3")}
-        </div>
-        <Image
-          src={workflow.image}
-          alt="workflow image"
-          width={1920}
-          height={296}
-        />
-      </section>
-
       {/* Cta */}
       <Cta cta={call_to_action} />
     </Base>

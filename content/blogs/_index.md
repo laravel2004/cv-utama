@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
+title: "Blog Terbaru"
 description: "this is meta description"
 ---

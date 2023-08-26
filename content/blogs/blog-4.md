@@ -1,7 +1,7 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Tes Ketebalan Jerigen dengan Api"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/blog-4.jpeg"
 date: 2022-07-04T05:00:00Z
 draft: false
 ---

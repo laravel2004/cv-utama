@@ -3,10 +3,10 @@
     "title": "Bigspring Light Nextjs",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo.jpeg",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "CV Utama"
   },
 
   "settings": {
@@ -25,7 +25,7 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "copyright": "Designed and Developed By [laravel2004](https://github.com/laravel2004)"
   },
 
   "metadata": {
