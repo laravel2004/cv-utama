@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "CV Utama",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo.jpeg",
     "logo": "/images/logo.jpeg",
     "logo_width": "200",
     "logo_height": "48",
@@ -29,7 +29,7 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "laravel2004",
     "meta_image": "",
     "meta_description": "A SAAS template for nextjs"
   }
