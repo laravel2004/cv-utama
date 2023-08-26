@@ -1,7 +1,7 @@
 ---
 banner:
   title: Solusi cerdas untuk masalah jerigen dan drum untuk keperluan sehari hari
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  content: Jerigen dan tong adalah dua perangkat yang sering digunakan dalam berbagai aspek kehidupan kita. Jerigen membantu dalam penyimpanan dan pengangkutan cairan, sementara tong penting dalam pengelolaan sampah.
   image: /images/banner-art.jpeg
   button:
     label: "Contact Us"
