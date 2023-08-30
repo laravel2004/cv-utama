@@ -11,6 +11,7 @@ const Contact = ({ data }) => {
       <div className="container">
         {markdownify(title, "h1", "text-center font-normal")}
         <div className="section row pb-0">
+          <iframe className="rounded-2xl my-14" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.1875548478397!2d112.7358579!3d-7.444490499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7e7afbbca0f75%3A0xbea31985382ac7e0!2sCV%20UTAMA%202!5e0!3m2!1sid!2sid!4v1692947511257!5m2!1sid!2sid" width="800" height="500" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           <div className="col-12 md:col-6 lg:col-7">
             <form
               className="contact-form"

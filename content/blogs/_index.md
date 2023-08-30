@@ -1,4 +1,4 @@
 ---
-title: "Blog Terbaru"
+title: "Product Kami"
 description: "this is meta description"
 ---

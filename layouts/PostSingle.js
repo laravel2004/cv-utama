@@ -3,6 +3,7 @@ import shortcodes from "@shortcodes/all";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/image";
 import Base from "./Baseof";
+import Button from "./shortcodes/Button";
 
 const PostSingle = ({ frontmatter, content, mdxContent }) => {
   let { description, title, image } = frontmatter;
@@ -30,6 +31,7 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
               <div className="content mb-16 text-left">
                 <MDXRemote {...mdxContent} components={shortcodes} />
               </div>
+              <Button href={"https://wa.me/6282230655546/"}> Beli Sekarang </Button>
             </article>
           </div>
         </div>
