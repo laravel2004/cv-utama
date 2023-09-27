@@ -1,7 +1,7 @@
 ---
-title: "Jerigen Plastik 10 Liter"
-description: "Dibuat dari plastik HDPE tahan lama, jerigen ini memiliki leher panjang yang memudahkan pengisian dan pengambilan cairan. Tutup kencang mencegah tumpahan dan menjaga kebersihan. Cocok untuk digunakan di rumah, garasi, atau tempat kerja."
-image: "/images/blog-1.jpeg"
+title: "Drum besi 200 Liter Grade A"
+description: "DKekuatan dan Ketahanan: Drum besi biasanya terbuat dari baja atau logam lainnya yang kuat, sehingga mereka tahan terhadap tekanan dan benturan. Ini membuat mereka cocok untuk mengangkut dan menyimpan barang-barang yang berat atau berbahaya."
+image: "/images/grade-a.jpeg"
 date: 2022-04-04T05:00:00Z
 draft: false
 
@@ -10,7 +10,7 @@ draft: false
   Deskripsi
 </h3>
 <p>
- Jerigen plastik 10 liter adalah pilihan sempurna untuk penyimpanan cairan berbagai jenis. Dibuat dari plastik HDPE tahan lama, jerigen ini memiliki leher panjang yang memudahkan pengisian dan pengambilan cairan. Tutup kencang mencegah tumpahan dan menjaga kebersihan. Cocok untuk digunakan di rumah, garasi, atau tempat kerja.
+ Drum Besi 200 liter adalah pilihan sempurna untuk penyimpanan cairan berbagai jenis. Dibuat dari plastik HDPE tahan lama, jerigen ini memiliki leher panjang yang memudahkan pengisian dan pengambilan cairan. Tutup kencang mencegah tumpahan dan menjaga kebersihan. Cocok untuk digunakan di rumah, garasi, atau tempat kerja.
 </p>
 
 ---
@@ -19,11 +19,9 @@ draft: false
   Spesifikasi:
 </h3>
 <ul>
-  <li>Kapasitas: 10 liter</li>
-  <li>Bahan: Plastik HDPE tahan lama</li>
-  <li>Dimensi: Tinggi 35 cm, Diameter 20 cm</li>
-  <li>Leher Panjang: Memudahkan pengisian dan tuangan</li>
-  <li>Tutup Kencang: Mencegah tumpahan dan kebocoran</li> 
-  <li>Warna: Transparan dengan tutup berwarna biru</li> 
+  <li>Kapasitas: 200 liter</li>
+  <li>Bahan: Plat Besi tahan lama</li>
+  <li>Warna: berwarna biru</li> 
+  <li>Tutup : Kecil</li>
 </ul>
 ---

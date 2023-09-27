@@ -1,7 +1,7 @@
 ---
-title: "Drum besi 200 Liter"
+title: "Drum besi 200 Liter Grade B"
 description: "DKekuatan dan Ketahanan: Drum besi biasanya terbuat dari baja atau logam lainnya yang kuat, sehingga mereka tahan terhadap tekanan dan benturan. Ini membuat mereka cocok untuk mengangkut dan menyimpan barang-barang yang berat atau berbahaya."
-image: "/images/besi-200.jpeg"
+image: "/images/grade-b.jpeg"
 date: 2022-04-04T05:00:00Z
 draft: false
 
@@ -20,8 +20,8 @@ draft: false
 </h3>
 <ul>
   <li>Kapasitas: 200 liter</li>
-  <li>Bahan: Besi tahan lama</li>
+  <li>Bahan: Plat Besi tahan lama</li>
   <li>Warna: berwarna biru</li> 
-  <li>Tutup : Lebar</li>
+  <li>Tutup : Kecil</li>
 </ul>
 ---

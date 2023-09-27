@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Solusi cerdas untuk masalah jerigen dan drum untuk keperluan sehari hari
-  content: Jerigen dan tong adalah dua perangkat yang sering digunakan dalam berbagai aspek kehidupan kita. Jerigen membantu dalam penyimpanan dan pengangkutan cairan, sementara tong penting dalam pengelolaan sampah.
+  title: Melayani jual beli drum bekas dan juga bongkaran besi tua
+  content: Drum dan Wadah Berkualitas Kami menyediakan beragam pilihan drum besi dan plastik dengan berbagai ukuran dan spesifikasi. Drum kami tidak hanya tahan lama tetapi juga dirancang untuk memenuhi standar kualitas tertinggi, sehingga Anda dapat yakin barang berharga Anda akan aman.
   image: /images/banner-art.jpeg
   button:
     label: "Contact Us"
@@ -11,29 +11,23 @@ banner:
 feature: 
   title: Kenapa Anda Harus Membeli di CV Utama
   features:
-  - name: "Pesan Online"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Banyak Promo"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "Buka Setiap Hari"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Kami buka pada pukul 08.00 sampai 17.00"
   - name: "Ramah Lingkungan"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Kami pastikan drum kami dalam keadaan bersih"
   - name: "Pengiriman Cepat"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Kami menyediakan armada truck sendiri"
   - name: "Kualitas Terjamin"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Dipastikan drum kami tidak ada kebocoran, bisa ditukar"
 
 # services
 services:
-  - title: "CV Utama menyediakan jerigen dan juga tong"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "CV Utama menyediakan drum dan menerima besi tua"
+    content: "CV Utama adalah perusahaan yang bergerak di bidang penyediaan drum baru serta menerima dan mengelola besi tua. Kami fokus pada menyediakan berbagai jenis drum berkualitas tinggi untuk keperluan industri, sementara juga mendukung upaya pelestarian lingkungan dengan menerima besi tua untuk daur ulang. Dengan pengalaman dan komitmen kami dalam memenuhi kebutuhan pelanggan sambil menjaga keberlanjutan lingkungan, CV Utama adalah pilihan ideal untuk solusi drum dan pengelolaan besi tua."
     images:
       - "/images/1.jpeg"
       - "/images/2.jpeg"
@@ -43,17 +37,17 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "Langsung diambil dari pabrik jadi harga menjadi terjangkau"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Harga terjangkau untuk masyarakat kecil"
+    content: "Kami di CV Utama berkomitmen untuk memberikan harga yang terjangkau untuk masyarakat kecil. Kami memahami pentingnya menjaga keseimbangan antara kualitas produk dan ketersediaan finansial. Dengan demikian, kami selalu berusaha untuk menawarkan produk drum berkualitas tinggi dengan harga yang kompetitif agar dapat membantu masyarakat kecil dan bisnis kecil dalam memenuhi kebutuhan mereka tanpa memberatkan anggaran mereka. Kami juga terbuka untuk berdiskusi dan menyesuaikan harga sesuai dengan volume dan kebutuhan khusus pelanggan. Dengan ini, kami berharap dapat menjadi mitra yang dapat diandalkan bagi masyarakat kecil dalam menjalankan operasi mereka dengan efisien dan terjangkau."
     images: 
-      - "/images/transport.jpeg"
+      - "/images/2.jpeg"
     button:
       enable: true
       label: Check it out
       link: /contact
   
   - title: "Kami mengutamakan kualitas barang"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "Kualitas barang adalah prioritas utama kami, dan kami selalu berusaha untuk meningkatkan dan memperbarui proses produksi kami agar tetap relevan dengan perkembangan teknologi terbaru. Dengan begitu, kami dapat memberikan produk yang handal dan tahan lama kepada pelanggan kami."
     images:
       - "/images/4.jpeg"
       - "/images/5.jpeg"
@@ -64,7 +58,7 @@ services:
       link: /contact
 
   - title: "Bisa bersaing tentang harga dan juga kualitas"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    content: "Kami di CV Utama memahami pentingnya bersaing dalam pasar yang kompetitif saat ini. Oleh karena itu, kami berusaha untuk memberikan keseimbangan yang optimal antara harga yang kompetitif dan kualitas barang yang tinggi kepada pelanggan kami."
     images:
       - "/images/7.jpeg"
       - "/images/8.jpeg"
@@ -76,8 +70,8 @@ services:
 
 # call_to_action
 call_to_action:
-  title: Pesan Jerigen atau Tong Sekarang?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Pesan atau jual drum dan besi tua?
+  content: Ayo buruan jangan ragu CV Utama merupakan solusi untuk anda
   image: '/images/cta.svg'
   button:
     enable: true

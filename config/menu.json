@@ -9,16 +9,8 @@
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
     }
   ],
   "footer": [
@@ -27,7 +19,7 @@
       "menu": [
         {
           "text": "Pricing",
-          "url": "/pricing"
+          "url": "#"
         },
         {
           "text": "Quick Start",
@@ -48,7 +40,7 @@
         },
         {
           "text": "Pricing",
-          "url": "/pricing"
+          "url": "#"
         }
       ]
     },
@@ -57,7 +49,7 @@
       "menu": [
         {
           "text": "FAQ",
-          "url": "/faq"
+          "url": "#"
         },
         {
           "text": "Privacy Policy",
